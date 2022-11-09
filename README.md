@@ -5,4 +5,4 @@
 2. Javascript를 찍먹해봅니다.
 3. app.netify.com로 배포
 
-   https://https://clone12love.netlify.app/
+   https://clone12love.netlify.app/
