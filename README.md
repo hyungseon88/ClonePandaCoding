@@ -3,3 +3,6 @@
 
 1. 무지성으로 따라합니다.
 2. Javascript를 찍먹해봅니다.
+3. app.netify.com로 배포
+
+   https://clone12love.netlify.app/
