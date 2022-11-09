@@ -8,7 +8,7 @@ function setShare(){
     const shareImage = url + 'img/image-' + resultAlt + '.png';
     const shareURL = 'page.result-' + resultAlt + '.html';
     
-    kakao.Share.sendDefault({
+    Kakao.Share.sendDefault({
         objectType: 'feed',
         content: {
         title: shareTitle,
@@ -20,7 +20,7 @@ function setShare(){
             webUrl: shareURL
         },
         },
-        
+
         buttons: [
         {
             title: '결과확인하기',
